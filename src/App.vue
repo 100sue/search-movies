@@ -40,6 +40,6 @@
 	 font-size: 28px;
 }
  header h1 span {
-	 color: #42b883;
+	 color: #0ba6ee;
 }
 </style>

@@ -2,10 +2,10 @@
   <div class="home">
     <div class="feature-card">
       <router-link to="/movie/tt0409591">
-        <img src="https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg" alt="Naruto Poster" class="featured-img" />
+        <img src="https://m.media-amazon.com/images/M/MV5BYmRmYzA4NDItZmI3NS00NWIyLWIzZWEtNGIzZjZlYmY5MzE2XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg" alt="hg2g Poster" class="featured-img" />
         <div class="detail">
-          <h3>Naruto</h3>
-          <p>Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.</p>
+          <h3>Captain America</h3>
+          <p>During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, "Captain America." Racing to Germany to sabotage the rockets of Nazi baddie "Red Skull", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States</p>
         </div>
       </router-link>
     </div>
@@ -122,7 +122,7 @@ export default {
  .home .search-box input[type="submit"] {
 	 width: 100%;
 	 max-width: 300px;
-	 background-color: #42b883;
+	 background-color: #0ba6ee;
 	 padding: 16px;
 	 border-radius: 8px;
 	 color: #fff;
@@ -131,7 +131,7 @@ export default {
 	 transition: 0.4s;
 }
  .home .search-box input[type="submit"]:active {
-	 background-color: #3b8070;
+	 background-color: #055479;;
 }
  .home .movies-list {
 	 display: flex;
@@ -161,7 +161,7 @@ export default {
  .home .movies-list .movie .movie-link .product-image .type {
 	 position: absolute;
 	 padding: 8px 16px;
-	 background-color: #42b883;
+	 background-color: #0ba6ee;
 	 color: #fff;
 	 bottom: 16px;
 	 left: 0px;
