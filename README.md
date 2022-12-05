@@ -3,6 +3,7 @@
 ## Projet : Search Movies ##
 
 Cherchez toutes les informations sur vos films et séries préferées, en tapant le nom de votre film !!
+  <br>
 Une appli simple et efficace.
 
 Utilisation de l'API d'Open Movie Database.
